@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HaoWANG-STAT
-- 👀 I’m interested in clinical trial design, casaul inference, survial analyis, simulations.
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @HaoWANG, a biostatistician at CSTONE pharmaceuticals
+- 👀 I’m interested in clinical trial design and analysis, trial simulations, casaul inference, ect..
+- 🌱 I’m currently learning inverse probability weighting.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: wanghao_stat@163.com
 
