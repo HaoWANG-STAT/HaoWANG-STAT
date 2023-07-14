@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hao WANG, a biostatistician at CSTONE pharmaceuticals.
-- 👀 I’m interested in clinical trial design and analysis, trial simulations, casaul inference, ect..
-- 🌱 I’m currently learning inverse probability weighting.
+- 👋 Hi, I’m Hao WANG, a biostatistician at Roche.
+- 👀 I’m interested in clinical trial design and analysis, simulations, casaul inference, ect..
 - 💞️ I’m looking to collaborate on code/tools development for above purposes.
 - 📫 How to reach me: wanghao_stat@163.com
 
